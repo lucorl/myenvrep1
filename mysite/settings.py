@@ -19,7 +19,7 @@ TEMPLATES = [
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
             # insert your TEMPLATE_DIRS here
-            os.path.join(BASE_DIR, 'mysite/apps/blog/templates/blog')
+            os.path.join(BASE_DIR, 'mysite/apps/blog/templates/bog')
         ],
         'APP_DIRS': True,
         'OPTIONS': {
